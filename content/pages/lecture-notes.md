@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1e789a8f-fa8d-3916-8110-ae7d9e36ad35
 ---
@@ -151,7 +154,7 @@ Basic Probabilistic Concepts ([PDF]({{< baseurl >}}/resources/sec4_binomial))
 
 Convergence of Binomial and Normal Distributions for Large Numbers of Trials ([PDF]({{< baseurl >}}/resources/sec4_binom_norm))
 
-Convergence of Binomial and Poisson Distributions in Limiting Case of n Large, p<<1 ([PDF]({{< baseurl >}}/resources/sec4_binom_pois))
+Convergence of Binomial and Poisson Distributions in Limiting Case of n Large, p\<\<1 ([PDF]({{< baseurl >}}/resources/sec4_binom_pois))
 
 Plane Crash Example ([PDF]({{< baseurl >}}/resources/sec4_flight_case))
 
