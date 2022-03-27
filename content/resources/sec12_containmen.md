@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1e789a8f-fa8d-3916-8110-ae7d9e36ad35
 resourcetype: Document
 title: sec12_containmen.pdf
 uid: 62f8433e-88d3-5343-5351-017ad991d727

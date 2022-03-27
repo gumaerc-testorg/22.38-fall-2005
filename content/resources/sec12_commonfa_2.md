@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1e789a8f-fa8d-3916-8110-ae7d9e36ad35
 resourcetype: Document
 title: sec12_commonfa_2.pdf
 uid: 3bb70d3a-60d3-1c3b-874b-2bc91713f155

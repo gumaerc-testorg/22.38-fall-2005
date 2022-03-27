@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1e789a8f-fa8d-3916-8110-ae7d9e36ad35
 resourcetype: Document
 title: sec4_flight_case.pdf
 uid: 5fe454b9-8fde-9412-f08b-9272a7db619f

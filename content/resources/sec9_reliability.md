@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1e789a8f-fa8d-3916-8110-ae7d9e36ad35
 resourcetype: Document
 title: sec9_reliability.pdf
 uid: c7007ee4-2356-2bdc-214f-5b3349c9d13e

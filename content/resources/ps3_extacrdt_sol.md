@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7662cc3b-2840-4763-28d0-703562e57d2e
 resourcetype: Document
 title: ps3_extacrdt_sol.pdf
 uid: 70518ec6-f0ff-c1cd-2636-c72b96f699a4

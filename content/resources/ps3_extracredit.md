@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7662cc3b-2840-4763-28d0-703562e57d2e
 resourcetype: Document
 title: ps3_extracredit.pdf
 uid: 0d7e0165-6a0b-0bdc-8eb2-d8d254b63f2e
