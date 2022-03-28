@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 1e789a8f-fa8d-3916-8110-ae7d9e36ad35
 ---
@@ -51,12 +52,12 @@ I.4 Minimal Cut (Path) Sets
 
 Risk-Informed Operational Decision Management (RIODM):
 
-1\. Risk, Event Trees and Fault Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_1))  
-2\. Reliability and Availability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec1_2))
+1\. Risk, Event Trees and Fault Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 79ab4752-4810-4e70-d5c6-ba1430df4965 "PDF" >}})  
+2\. Reliability and Availability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link b1beacf3-e30a-7f84-e981-e1d192e4eb9c "PDF" >}})
 
-Structure Functions ([PDF]({{< baseurl >}}/resources/sec1_struct_func))
+Structure Functions ({{< resource_link 94b3cd4f-8299-aeb1-a6cc-217b3e8b206d "PDF" >}})
 
-Valve Test Example ([PDF]({{< baseurl >}}/resources/sec1_valve_test))
+Valve Test Example ({{< resource_link 087c734e-5196-6d2e-c133-58c2c2c01dde "PDF" >}})
 
 
 {{< tdclose >}}
@@ -150,13 +151,13 @@ IV.5 The Concept of Correlation
 {{< tdopen >}}
 
 
-Basic Probabilistic Concepts ([PDF]({{< baseurl >}}/resources/sec4_binomial))
+Basic Probabilistic Concepts ({{< resource_link f7b06d41-3db7-62b2-fc13-df1698856735 "PDF" >}})
 
-Convergence of Binomial and Normal Distributions for Large Numbers of Trials ([PDF]({{< baseurl >}}/resources/sec4_binom_norm))
+Convergence of Binomial and Normal Distributions for Large Numbers of Trials ({{< resource_link c959cac9-7c76-b5b1-6f5b-eae8f5ff16f5 "PDF" >}})
 
-Convergence of Binomial and Poisson Distributions in Limiting Case of n Large, p\<\<1 ([PDF]({{< baseurl >}}/resources/sec4_binom_pois))
+Convergence of Binomial and Poisson Distributions in Limiting Case of n Large, p\<\<1 ({{< resource_link 20066ab6-7a7c-2a17-9d2b-e459d0fde2f0 "PDF" >}})
 
-Plane Crash Example ([PDF]({{< baseurl >}}/resources/sec4_flight_case))
+Plane Crash Example ({{< resource_link 5fe454b9-8fde-9412-f08b-9272a7db619f "PDF" >}})
 
 
 {{< tdclose >}}
@@ -302,11 +303,11 @@ IX.6 Elementary Markov Models
 {{< tdopen >}}
 
 
-Failure, Repair, Maintenance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec9_failure))
+Failure, Repair, Maintenance (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 16b111da-a6e9-244c-8dc9-1ddf8ab37698 "PDF" >}})
 
-Reliability and Availability ([PDF]({{< baseurl >}}/resources/sec9_reliability))
+Reliability and Availability ({{< resource_link c7007ee4-2356-2bdc-214f-5b3349c9d13e "PDF" >}})
 
-Operational Availability ([PDF]({{< baseurl >}}/resources/sec9_ops))
+Operational Availability ({{< resource_link 66908d1a-f1c5-dc37-8eb0-b3010bcbc787 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -338,9 +339,9 @@ X.4 Elicitation and Utilization of Expert Opinions
 {{< tdopen >}}
 
 
-Bayes' Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec10_bayesian))
+Bayes' Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link b6ebd997-17a0-1000-f605-34a14fc42bfc "PDF" >}})
 
-Bayesian Inference ([PDF]({{< baseurl >}}/resources/sec10_bayes_updt))
+Bayesian Inference ({{< resource_link 11aec499-fa42-42d4-1847-04566d7f7b66 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -408,23 +409,23 @@ XII.7 Examples from Risk Assessments for Nuclear Reactors, Chemical Process Syst
 {{< tdopen >}}
 
 
-PRA: An Historical Perspective ([PDF - 1.8 MB]({{< baseurl >}}/resources/sec12_pra_aposta)) (Courtesy of Prof. George Apostolakis. Used with permission.)
+PRA: An Historical Perspective ({{< resource_link 347f7cfb-9fbf-49c1-8e55-af60309acd75 "PDF - 1.8 MB" >}}) (Courtesy of Prof. George Apostolakis. Used with permission.)
 
-PRA Structure and Results ([PDF - 1.1 MB]({{< baseurl >}}/resources/sec12_pra_struct))
+PRA Structure and Results ({{< resource_link 42cb79f0-abc3-c387-6031-fa030c8df165 "PDF - 1.1 MB" >}})
 
-Uncertainty (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_uncertaint))
+Uncertainty (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 36d4b1be-2077-3dc8-63d0-54afd0c82165 "PDF" >}})
 
-Types of Uncertainty ([PDF]({{< baseurl >}}/resources/sec12_types_unc))
+Types of Uncertainty ({{< resource_link 8c54a947-68f6-7396-1862-0b420dafb0c1 "PDF" >}})
 
-Common Cause Failures 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_commonfa_1))
+Common Cause Failures 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 326f5038-4657-2f8c-caac-94089d13de44 "PDF" >}})
 
-Common Cause Failures 2 ([PDF]({{< baseurl >}}/resources/sec12_commonfa_2))
+Common Cause Failures 2 ({{< resource_link 3bb70d3a-60d3-1c3b-874b-2bc91713f155 "PDF" >}})
 
-PRA in Managing Operations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_management))
+PRA in Managing Operations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 75cf8c3a-ee2a-9407-f400-790b633eb9b3 "PDF" >}})
 
-Engineered Safety Features (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_esf))
+Engineered Safety Features (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 703c2a74-813b-121e-0b16-8829d4b5518c "PDF" >}})
 
-Containment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12_containmen))
+Containment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 62f8433e-88d3-5343-5351-017ad991d727 "PDF" >}})
 
 
 {{< tdclose >}}
