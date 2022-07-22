@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Readings section contains the required texts, reference books and readings
+  lecture wise.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 19454e6d-e6e9-c120-cccc-b939034ba76f
 ---
