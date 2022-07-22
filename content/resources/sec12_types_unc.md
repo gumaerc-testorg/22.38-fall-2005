@@ -6,6 +6,7 @@ file: /courses/22-38-probability-and-its-applications-to-reliability-quality-con
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sec12_types_unc.pdf
 uid: 8c54a947-68f6-7396-1862-0b420dafb0c1
 ---
 This file contains notes on factors of uncertainty, important sources etc.
-

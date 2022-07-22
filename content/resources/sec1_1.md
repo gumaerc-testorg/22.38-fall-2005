@@ -5,6 +5,7 @@ file: /courses/22-38-probability-and-its-applications-to-reliability-quality-con
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sec1_1.pdf
 uid: 79ab4752-4810-4e70-d5c6-ba1430df4965
 ---
 This file contains notes for risk, event trees and fault trees.
-

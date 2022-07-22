@@ -5,6 +5,7 @@ file: /courses/22-38-probability-and-its-applications-to-reliability-quality-con
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sec4_flight_case.pdf
 uid: 5fe454b9-8fde-9412-f08b-9272a7db619f
 ---
 This file contains a plane crash example for probability distributions.
-

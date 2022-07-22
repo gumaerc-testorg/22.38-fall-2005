@@ -5,6 +5,7 @@ file: /courses/22-38-probability-and-its-applications-to-reliability-quality-con
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2_sol.pdf
 uid: bdbbb3f3-61d6-5d4f-af84-9feade8860d5
 ---
 This file contains solutions the questions asked for problem set 2.
-

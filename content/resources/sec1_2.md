@@ -5,6 +5,7 @@ file: /courses/22-38-probability-and-its-applications-to-reliability-quality-con
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sec1_2.pdf
 uid: b1beacf3-e30a-7f84-e981-e1d192e4eb9c
 ---
 This file contains notes for Reliability and Availability.
-

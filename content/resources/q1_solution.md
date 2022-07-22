@@ -5,6 +5,7 @@ file: /courses/22-38-probability-and-its-applications-to-reliability-quality-con
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: q1_solution.pdf
 uid: 6cdbdeb0-709c-aeaa-dd71-0bbf14d9bb81
 ---
 This file contains exam questions along with the solutions.
-
