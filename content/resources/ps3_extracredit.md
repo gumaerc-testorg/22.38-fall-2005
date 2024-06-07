@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/0d7e01656a0b0bdc8eb2d8d254b63f2e_ps3_extracredit.pdf
+file_size: 38123
 file_type: application/pdf
 learning_resource_types:
 - Assignments
