@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/70518ec6f0ffc1cd2636c72b96f699a4_ps3_extacrdt_sol.pdf
+file: /ol-ocw-studio-app/courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/70518ec6f0ffc1cd2636c72b96f699a4_ps3_extacrdt_sol.pdf
 file_size: 102741
 file_type: application/pdf
 learning_resource_types:
