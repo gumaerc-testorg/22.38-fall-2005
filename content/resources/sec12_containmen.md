@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes and figures for containment.
-file: /ol-ocw-studio-app/courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/62f8433e88d353435351017ad991d727_sec12_containmen.pdf
+file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/62f8433e88d353435351017ad991d727_sec12_containmen.pdf
 file_size: 69047
 file_type: application/pdf
 learning_resource_types:

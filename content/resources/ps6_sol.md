@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise solutions based on the readings assignment.
-file: /ol-ocw-studio-app/courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/3ab74e8a88fff55302138876fed2fd1e_ps6_sol.pdf
+file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/3ab74e8a88fff55302138876fed2fd1e_ps6_sol.pdf
 file_size: 89042
 file_type: application/pdf
 learning_resource_types:

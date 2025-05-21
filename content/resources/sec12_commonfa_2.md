@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains notes for common course failures: failures of multiple
   components.'
-file: /ol-ocw-studio-app/courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/3bb70d3a60d31c3b874b2bc91713f155_sec12_commonfa_2.pdf
+file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/3bb70d3a60d31c3b874b2bc91713f155_sec12_commonfa_2.pdf
 file_size: 354574
 file_type: application/pdf
 learning_resource_types:
