@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for uncertainty.
-file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/36d4b1be20773dc863d054afd0c82165_sec12_uncertaint.pdf
+file: /ol-ocw-studio-app/courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/36d4b1be20773dc863d054afd0c82165_sec12_uncertaint.pdf
 file_size: 172736
 file_type: application/pdf
 learning_resource_types:
